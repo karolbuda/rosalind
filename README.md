@@ -1,3 +1,1 @@
-# rosalind
-# rosalind
-# rosalind
+# Rosalind
